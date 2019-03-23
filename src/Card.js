@@ -8,7 +8,7 @@ const Card = (props) => {
 			<h2>{name}</h2>
 			<p>{email}</p>
 		</div>
-	)
+	);
 }
 
 export default Card;
