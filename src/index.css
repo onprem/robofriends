@@ -6,9 +6,5 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, rgb(7, 135, 161), rgb(7, 34, 138)) repeat scroll 0% 0%;
 }
